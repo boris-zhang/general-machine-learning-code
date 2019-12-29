@@ -1,1 +1,1 @@
-# general-machine-learning-code
+# code of some machine learning projects
